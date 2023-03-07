@@ -1,0 +1,22 @@
+{
+    "success": {
+        "name": "Study Playwright",
+        "is_done": false
+    },
+    "duplicate": {
+        "name": "Study Cypress",
+        "is_done": false
+    },
+    "required": {
+        "name": "",
+        "is_done": false
+    },
+    "update": {
+        "name": "Study JS",
+        "is_done": false
+    },
+    "delete": {
+        "name": "Study Python",
+        "is_done": false
+    }
+}
